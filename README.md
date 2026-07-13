@@ -59,10 +59,7 @@ The dataset contains information related to:
 
 ##  Dashboard Preview
 
-*(Upload your dashboard image named `Dashboard.png` and replace the line below.)*
-
-![Dashboard](Dashboard.png)
-
+https://github.com/AnoopSharma08/Ecommerce-business-performance-dashboard/blob/main/dashboard.png
 
 ##  Key KPIs
 
