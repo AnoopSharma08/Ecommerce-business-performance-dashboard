@@ -57,9 +57,11 @@ The dataset contains information related to:
 
 ---
 
-##  Dashboard Preview
+##  Dashboard 
 
-https://github.com/AnoopSharma08/Ecommerce-business-performance-dashboard/blob/main/dashboard.png
+<img width="1323" height="446" alt="dashboard" src="https://github.com/user-attachments/assets/8db9b8fa-8384-4386-a92e-b07f0a672c6a" />
+
+
 
 ##  Key KPIs
 
