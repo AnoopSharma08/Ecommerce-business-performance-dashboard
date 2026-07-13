@@ -58,8 +58,9 @@ The dataset contains information related to:
 ---
 
 ##  Dashboard 
+<img width="1323" height="446" alt="dashboard" src="https://github.com/user-attachments/assets/78dc7ba4-9979-4c29-99c5-df29051d69b4" />
 
-![Uploading dashboard.png…]()
+
 
 
 
